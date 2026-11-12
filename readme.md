@@ -1,11 +1,6 @@
 # Cross-Asset Market Risk Capital & Counterparty Credit Risk Engine
 
 **Unified Quantitative Risk Framework | Basel FRTB-SBM, VaR/SVaR, Monte Carlo PFE & SA-CCR**
-
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Notebook-WQU%20ADSL%20Standard-orange.svg)](https://jupyter.org/)
-[![Status](https://img.shields.io/badge/Build-Active%20Sprint%20(Modules%201--2%20Live)-brightgreen.svg)]()
-
 ---
 
 ## 1. Executive Summary
