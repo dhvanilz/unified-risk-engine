@@ -117,5 +117,5 @@ unified-risk-engine/
 ## 6. Author
 
 **Dhvanil Zaveri**  
-*Quantitative Risk & Derivatives Analytics | MBA (Quantitative Finance), IIM Tiruchirappalli | FRM Candidate*  
+*Risk & Analytics | MBA (Finance), IIM Tiruchirappalli | FRM Candidate*  
 Location: London, United Kingdom
