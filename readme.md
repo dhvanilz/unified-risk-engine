@@ -10,7 +10,7 @@ This repository houses an end-to-end quantitative risk analytics engine built in
 The engine evaluates a shared **$\$60,000,000$ multi-asset relative-value commodity and securities financing (SFT) netting set** with counterparty **VectaLink Global Ltd.** across two institutional risk lenses:
 
 1. **Market Risk & Regulatory Capital Coverage:** Full revaluation pricing, $1$-day and $10$-day $99\%$ Historical and Parametric $\text{VaR}$, Basel II.5 Stressed $\text{VaR}$ ($\text{SVaR}$) calibrated back to $2007$, first-order Greeks P&L attribution, **FRTB Sensitivities-Based Method (SBM)** commodity capital aggregation, and **Kupiec POF** model backtesting.
-2. **Counterparty Credit Risk (CCR) & Pre-Trade Exposure Management:** Multi-factor Cholesky-correlated Monte Carlo path simulation incorporating bilateral **ISDA/CSA** collateral mechanics ($10$-day Margin Period of Risk), multi-tenor Potential Future Exposure (($PFE_{95\%}$, $PFE_{99\%}$), Effective $\text{EPE}$), **Basel III SA-CCR** Exposure at Default ($\text{EAD}$), and pre-trade incremental $\Delta PFE$ and repo haircut stress checks.
+2. **Counterparty Credit Risk (CCR) & Pre-Trade Exposure Management:** Multi-factor Cholesky-correlated Monte Carlo path simulation incorporating bilateral **ISDA/CSA** collateral mechanics ($10$-day Margin Period of Risk), multi-tenor Potential Future Exposure ($PFE_{95\%}$, $PFE_{99\%}$), Effective $\text{EPE}$, **Basel III SA-CCR** Exposure at Default ($\text{EAD}$), and pre-trade incremental $\Delta PFE$ and repo haircut stress checks.
 
 ---
 
